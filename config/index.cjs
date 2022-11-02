@@ -22,10 +22,9 @@ const USER_CONFIG = {
     weather: true,
     earthyLoveWords: true,
   }
-  
 
   USERS: [
-    {
+  {
       // 想要发送的人的名字
       name: 'GC',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
