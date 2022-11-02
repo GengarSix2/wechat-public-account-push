@@ -43,7 +43,7 @@ const USER_CONFIG = {
           type: '生日', name: 'GC', year: '2000', date: '06-02',
         },
         {
-          type: '节日', name: '表白纪念日', year: '2022', date: '8-22',
+          type: '节日', name: '表白纪念日', year: '2022', date: '08-22',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
@@ -73,7 +73,7 @@ const USER_CONFIG = {
           type: '生日', name: '圆小方', year: '1999', date: '10-10',
         },
         {
-          type: '节日', name: '表白纪念日', year: '2022', date: '8-22',
+          type: '节日', name: '表白纪念日', year: '2022', date: '08-22',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
