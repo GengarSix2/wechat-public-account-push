@@ -21,7 +21,7 @@ const USER_CONFIG = {
   SWITCH: {
     weather: true,
     earthyLoveWords: true,
-  }
+  },
 
   USERS: [
   {
