@@ -14,11 +14,13 @@ const TEMPLATE_CONFIG = [
       
       最高气温: {{max_temperature.DATA}} 
       
+      {{notice.DATA}}
+      
+      ---
+      
       今天是在一起的第{{love_day.DATA}}天
  
       {{birthday_message.DATA}}
-
-      {{one_talk.DATA}} -- {{talk_from.DATA}}
       
     `
   },
