@@ -26,7 +26,7 @@ const USER_CONFIG = {
   USERS: [
   {
       // 想要发送的人的名字
-      name: 'GC',
+      name: '耿鬼鬼',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'PDU17503TUlAABpjigg8NRYo6dKUZHrOKuJaiv37y',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
@@ -36,7 +36,10 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: 'GC', year: '2000', date: '06-02',
+          type: '生日', name: '耿鬼鬼', year: '2000', date: '06-02',
+        },
+        {
+          type: '生日', name: '圆小方', year: '1999', date: '10-10',
         },
         {
           type: '节日', name: '表白纪念日', year: '2022', date: '08-22',
@@ -61,6 +64,9 @@ const USER_CONFIG = {
       horoscopeDate: '10-10',
       festivals: [
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
+        {
+          type: '生日', name: '耿鬼鬼', year: '2000', date: '06-02',
+        },
         {
           type: '生日', name: '圆小方', year: '1999', date: '10-10',
         },
